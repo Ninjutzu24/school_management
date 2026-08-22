@@ -266,68 +266,6 @@ TeacherSubjectClass
 This design makes it possible to distinguish between the teacher, the subject being taught and the class where that teaching assignment applies.
 
 
-📁 Project Structure
-
-school_management/
-│
-├── .mvn/
-│
-├── src/
-│   │
-│   ├── main/
-│   │   │
-│   │   ├── java/
-│   │   │   │
-│   │   │   └── edu/cdloga/school_management/
-│   │   │       │
-│   │   │       ├── controller/
-│   │   │       │   ├── ClazzController.java
-│   │   │       │   ├── GradeController.java
-│   │   │       │   ├── IndexController.java
-│   │   │       │   ├── StudentController.java
-│   │   │       │   ├── SubjectController.java
-│   │   │       │   └── TeacherController.java
-│   │   │       │
-│   │   │       ├── model/
-│   │   │       │   ├── Clazz.java
-│   │   │       │   ├── Grade.java
-│   │   │       │   ├── Student.java
-│   │   │       │   ├── Subject.java
-│   │   │       │   ├── Teacher.java
-│   │   │       │   ├── TeacherSubject.java
-│   │   │       │   └── TeacherSubjectClass.java
-│   │   │       │
-│   │   │       ├── repository/
-│   │   │       │   ├── ClazzRepository.java
-│   │   │       │   ├── GradeRepository.java
-│   │   │       │   ├── StudentRepository.java
-│   │   │       │   ├── SubjectRepository.java
-│   │   │       │   ├── TeacherRepository.java
-│   │   │       │   ├── TeacherSubjectRepository.java
-│   │   │       │   └── TeacherSubjectClassRepository.java
-│   │   │       │
-│   │   │       ├── service/
-│   │   │       │   ├── ClazzService.java
-│   │   │       │   ├── GradeService.java
-│   │   │       │   ├── StudentService.java
-│   │   │       │   ├── SubjectService.java
-│   │   │       │   └── TeacherService.java
-│   │   │       │
-│   │   │       └── SchoolManagementApplication.java
-│   │   │
-│   │   └── resources/
-│   │       ├── templates/
-│   │       ├── application.properties
-│   │       └── data.sql
-│   │
-│   └── test/
-│
-├── .gitignore
-├── pom.xml
-├── mvnw
-└── mvnw.cmd
-
-
 💻 Prerequisites
 
 Before running the project, make sure you have:
