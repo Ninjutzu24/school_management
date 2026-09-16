@@ -20,15 +20,9 @@ under the name **Application X**.
 
 🏆 **Competition Recognition**
 
-```text
-The project was presented at:
-
-InfoEducație 2024 — County Stage
-Educational Software Section
-
-🏆 2nd Prize — Educational Software
-[📄 View award certificate](awards/InfoEducatie_2024_County_Stage_2nd_Place.pdf)
-```
+| |
+|---|
+| The project was presented at:<br><br>**InfoEducație 2024 — County Stage**<br>Educational Software Section<br><br>🏆 **2nd Prize — Educational Software**<br><br>[📄 View award certificate](awards/InfoEducatie_2024_County_Stage_2nd_Place.pdf) |
 
 ✨ **Implemented Features**
 
