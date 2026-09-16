@@ -27,6 +27,7 @@ InfoEducație 2024 — County Stage
 Educational Software Section
 
 🏆 2nd Prize — Educational Software
+[📄 View award certificate](awards/InfoEducatie_2024_County_Stage_2nd_Place.pdf)
 ```
 
 ✨ **Implemented Features**
